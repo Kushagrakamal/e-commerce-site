@@ -1,7 +1,7 @@
-# e-commerce-site
+
 # E-Commerce Site
 
-This is a basic e-commerce site built using [React](https://reactjs.org/) and [Node.js](https://nodejs.org/en/). The site allows users to browse and purchase products.
+This is a e-commerce site built using [React](https://reactjs.org/) and [Node.js](https://nodejs.org/en/). The site allows users to browse and purchase products.
 
 ## Features
 
